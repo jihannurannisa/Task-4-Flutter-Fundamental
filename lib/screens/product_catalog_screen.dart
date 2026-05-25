@@ -28,7 +28,7 @@ class _ProductCatalogScreenState extends State<ProductCatalogScreen> {
       name: 'Vintage Chair',
       categoryId: 'furniture',
       imageUrl:
-          'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=900',
+          'https://images.unsplash.com/photo-1779357995338-a6cf67aac9e4?w=900',
       price: 120,
       rating: 4.7,
       discountPercent: 20,
@@ -38,7 +38,7 @@ class _ProductCatalogScreenState extends State<ProductCatalogScreen> {
       name: 'Ceramic Vase',
       categoryId: 'decor',
       imageUrl:
-          'https://images.unsplash.com/photo-1612196808214-b7e239e5f7f3?w=900',
+          'https://images.unsplash.com/photo-1597696929736-6d13bed8e6a8?w=900',
       price: 48,
       rating: 4.5,
       discountPercent: 15,
